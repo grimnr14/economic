@@ -1,0 +1,16 @@
+"geoid","geolevel","year","income_score","affordability_score","wealth_score","equity_score","level","value"
+"15001","county",2020,101.88,145.71,109.44,102.16,"economic_score",114.16
+"15003","county",2020,123.35,262.19,88.3,85.22,"economic_score",162.69
+"15005","county",2020,143.78,88.11,46.45,5.32,"economic_score",142.02
+"15007","county",2020,117.65,145.5,107.53,93.52,"economic_score",123.34
+"15009","county",2020,120.43,167.92,98.82,95.85,"economic_score",134
+"15001","county",2020,101.88,145.71,109.44,102.16,"economic_rnk",79.0343
+"15003","county",2020,123.35,262.19,88.3,85.22,"economic_rnk",99.6262
+"15005","county",2020,143.78,88.11,46.45,5.32,"economic_rnk",96.7601
+"15007","county",2020,117.65,145.5,107.53,93.52,"economic_rnk",88.8785
+"15009","county",2020,120.43,167.92,98.82,95.85,"economic_rnk",93.8629
+"15001","county",2020,101.88,145.71,109.44,102.16,"economic_state_rnk",0
+"15003","county",2020,123.35,262.19,88.3,85.22,"economic_state_rnk",100
+"15005","county",2020,143.78,88.11,46.45,5.32,"economic_state_rnk",75
+"15007","county",2020,117.65,145.5,107.53,93.52,"economic_state_rnk",25
+"15009","county",2020,120.43,167.92,98.82,95.85,"economic_state_rnk",50

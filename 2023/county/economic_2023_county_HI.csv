@@ -1,0 +1,16 @@
+"geoid","geolevel","year","income_score","affordability_score","wealth_score","equity_score","level","value"
+"15001","county",2023,100.85,143.64,111.2,110.5,"economic_score",111.24
+"15003","county",2023,121.4,262.04,87.05,95.53,"economic_score",160.84
+"15005","county",2023,NA,NA,NA,NA,"economic_score",NA
+"15007","county",2023,118.95,147.4,109.01,102.62,"economic_score",124.14
+"15009","county",2023,119.13,163.35,102.23,109.76,"economic_score",128.83
+"15001","county",2023,100.85,143.64,111.2,110.5,"economic_rnk",74.533
+"15003","county",2023,121.4,262.04,87.05,95.53,"economic_rnk",99.7198
+"15005","county",2023,NA,NA,NA,NA,"economic_rnk",NA
+"15007","county",2023,118.95,147.4,109.01,102.62,"economic_rnk",89.259
+"15009","county",2023,119.13,163.35,102.23,109.76,"economic_rnk",92.2478
+"15001","county",2023,100.85,143.64,111.2,110.5,"economic_state_rnk",0
+"15003","county",2023,121.4,262.04,87.05,95.53,"economic_state_rnk",100
+"15005","county",2023,NA,NA,NA,NA,"economic_state_rnk",NA
+"15007","county",2023,118.95,147.4,109.01,102.62,"economic_state_rnk",33.3333
+"15009","county",2023,119.13,163.35,102.23,109.76,"economic_state_rnk",66.6667

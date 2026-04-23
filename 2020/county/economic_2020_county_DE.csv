@@ -1,0 +1,10 @@
+"geoid","geolevel","year","income_score","affordability_score","wealth_score","equity_score","level","value"
+"10001","county",2020,103.46,152.93,92.07,81.35,"economic_score",121.63
+"10003","county",2020,120.37,199.64,71.7,95.46,"economic_score",147.91
+"10005","county",2020,114.12,151.63,121.49,98.67,"economic_score",119.08
+"10001","county",2020,103.46,152.93,92.07,81.35,"economic_rnk",87.1963
+"10003","county",2020,120.37,199.64,71.7,95.46,"economic_rnk",98.3178
+"10005","county",2020,114.12,151.63,121.49,98.67,"economic_rnk",84.7664
+"10001","county",2020,103.46,152.93,92.07,81.35,"economic_state_rnk",50
+"10003","county",2020,120.37,199.64,71.7,95.46,"economic_state_rnk",100
+"10005","county",2020,114.12,151.63,121.49,98.67,"economic_state_rnk",0
